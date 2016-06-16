@@ -1,0 +1,1 @@
+web: gunicorn jira_gadget.wsgi --log-file -
